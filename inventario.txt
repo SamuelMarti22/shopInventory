@@ -1,1 +1,10 @@
-Nombre,categoria,cantidad
+Articulo {nombre = "Café", categoria = "Bebida", stock = 25}
+Articulo {nombre = "Pan Integral", categoria = "Alimento", stock = 50}
+Articulo {nombre = "Detergente Líquido", categoria = "Limpieza", stock = 30}
+Articulo {nombre = "Shampoo", categoria = "Higiene Personal", stock = 40}
+Articulo {nombre = "Cereal de Avena", categoria = "Alimento", stock = 20}
+Articulo {nombre = "Jugo de Naranja", categoria = "Bebida", stock = 35}
+Articulo {nombre = "Papel Higiénico", categoria = "Higiene Personal", stock = 60}
+Articulo {nombre = "Leche Deslactosada", categoria = "Bebida", stock = 15}
+Articulo {nombre = "Galletas de Chocolate", categoria = "Alimento", stock = 45}
+Articulo {nombre = "Jabón en Barra", categoria = "Limpieza", stock = 25}
