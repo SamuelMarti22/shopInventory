@@ -1,4 +1,5 @@
-Articulo {nombre = "Café", categoria = "Bebida", stock = 25}
+Articulo {nombre = "Papaya", categoria = "Alimento", stock = 15}
+Articulo {nombre = "Cafe", categoria = "Bebida", stock = 25}
 Articulo {nombre = "Pan Integral", categoria = "Alimento", stock = 50}
 Articulo {nombre = "Detergente Líquido", categoria = "Limpieza", stock = 30}
 Articulo {nombre = "Shampoo", categoria = "Higiene Personal", stock = 40}
