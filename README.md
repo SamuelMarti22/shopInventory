@@ -1,7 +1,7 @@
 ﻿# shopInventory
  Integrantes:
-   *Laura Andrea Castrillón Fajardo 
-   *Samuel Martinez Arteaga
+  '<br>' *Laura Andrea Castrillón Fajardo 
+  '<br>' *Samuel Martinez Arteaga
 
 Plataforma: Visual Studio Code
 
